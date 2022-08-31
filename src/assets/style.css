@@ -1,0 +1,41 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+	font-family: "Destedad";
+	src: url("./es_black.ttf");
+}
+
+@font-face {
+	font-family: "Lestedad";
+	src: url("./es_light.ttf");
+}
+
+@font-face {
+	font-family: "Bestedad";
+	src: url("./es_bold.ttf");
+}
+
+@font-face {
+	font-family: "Mestedad";
+	src: url("./es_med.ttf");
+}
+
+@font-face {
+	font-family: "Testedad";
+	src: url("./es_thin.ttf");
+}
+
+@font-face {
+	font-family: "VFestedad";
+	src: url("./es_vf.ttf");
+}
+
+.bg1 {
+	background-image: url('./bg1.png');
+	height: 100%;
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+}
