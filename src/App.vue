@@ -103,11 +103,12 @@ export default {
 							<span class="font-bold font-Bes text-lg">3 غذا</span>
 							<span class="text-info font-Les">مجموع : 180000 تومان</span>
 							<div class="card-actions">
-								<button
+								<router-link
+									to="/cart"
 									class="btn btn-primary bg-orange-500 outline-none border-0 btn-block font-Les"
 								>
 									مشاهده سبد خرید
-								</button>
+								</router-link>
 							</div>
 						</div>
 					</div>
