@@ -2,7 +2,7 @@
 	<div>
 		<div class="flex flex-col items-center p-4">
 			<h1 class="text-2xl font-Des text-orange-400">سبد خرید</h1>
-			<h3 class="text-lg font-Les mt-1">
+			<h3 class="text-lg font-Les mt-1 text-center">
 				محصولاتی که سفارش دادی اینجاست و حالا دیگه وقت تسویه حسابه
 			</h3>
 			<div class="overflow-x-auto w-full mt-4">
